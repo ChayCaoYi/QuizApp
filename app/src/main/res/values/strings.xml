@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="title">Test your hard work scores</string>
+    <string name="question1">1.What time do you get up?</string>
+    <string name="answer1">4~6 A.M.</string>
+    <string name="answer2">6~8 A.M.</string>
+    <string name="answer3">8~10 A.M.</string>
+    <string name="question2">2.Sleep at night for a few hours?</string>
+    <string name="answer4">4 hours or less</string>
+    <string name="answer5">6 hours or less</string>
+    <string name="answer6">8 hours or less</string>
+    <string name="answer7">10 hours or less</string>
+    <string name="question3">3.What will you do in your spare time?</string>
+    <string name="answer8">Social</string>
+    <string name="answer9">read</string>
+    <string name="answer10">music</string>
+    <string name="answer11">I have no spare time</string>
+    <string name="question4">4.What types of software are there in your phone?</string>
+    <string name="answer12">games</string>
+    <string name="answer13">shopping</string>
+    <string name="answer14">sccial Networking</string>
+    <string name="answer15">education</string>
+    <string name="queation5">5.If there are 25 hours a day, then the extra hour you will be used to do what?</string>
+    <string name="answer16"></string>
+    <string name="result">your score :</string>
+    <string name="quote1">Come on! keep it up</string>
+    <string name="quote2">You like people so excellent, how can you reluctantly fall.</string>
+</resources>
